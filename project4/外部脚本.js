@@ -1,0 +1,1 @@
+document.write('这是我写的外部脚本')
